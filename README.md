@@ -1,7 +1,8 @@
-# Project Title
+# PythonOpenWeather
 
 [OpenWeatherMap](https://openweathermap.org/) sign in for your API key and 
-python cod for info temperature of your city. 
+python cod for info temperature of your city.
+This is a project from [geeksforgeeks](https://www.geeksforgeeks.org/python-find-current-weather-of-any-city-using-openweathermap-api/). 
 ![Alt text](img/img1.png)
 
 ## Getting Started
